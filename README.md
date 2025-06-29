@@ -124,4 +124,3 @@ pytest tests/integration/test_control_switch.py
 
 ## Лицензия
 Apache 2.0 License
-```
