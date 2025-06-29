@@ -46,7 +46,7 @@ drone_autopilot/
 
 ### Предварительные требования
 - Ubuntu 22.04
-- ROS2 Humble
+- ROS2 Jazzy
 - NVIDIA драйверы >= 525
 - Python 3.8+
 
