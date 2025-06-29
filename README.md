@@ -119,8 +119,6 @@ pytest tests/integration/test_control_switch.py
 
 ## Поддержка оборудования
 - Оптимизировано для NVIDIA RTX 4050 (6 ГБ)
-- Совместимо с реальными БПЛА (PX4)
-- Поддержка режима Hardware-in-the-Loop
 
 ## Лицензия
 Apache 2.0 License
