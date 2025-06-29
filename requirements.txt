@@ -1,0 +1,19 @@
+# Основные
+ray[rllib]==2.47.1
+gymnasium==1.2.0
+torch==2.7.1
+numpy==2.3.1
+opencv-python==4.11.0.86
+pyyaml==6.0.2
+transformers==4.53.0
+
+# ROS2
+rclpy
+gazebo_msgs
+sensor_msgs
+geometry_msgs
+tf_transformations
+
+# Оптимизации
+nvidia-tensorrt==99.0.0
+onnx==1.18.0
