@@ -13,7 +13,7 @@
 
 ## Структура проекта
 ```
-drone_autopilot/
+UAV-RL/
 ├── core/                           # Основные компоненты системы
 │   ├── environments/               # Реализации RL-сред
 │   ├── perception/                 # Интерфейсы обработки сенсоров
@@ -53,8 +53,8 @@ drone_autopilot/
 ### Установка
 ```bash
 # Клонирование репозитория
-git clone https://github.com/yourusername/drone-autopilot-rl.git
-cd drone-autopilot-rl
+git clone https://github.com/GEN_BBB/drone-autopilot-rl.git
+cd UAV-RL
 
 # Установка зависимостей
 pip install -r requirements.txt
